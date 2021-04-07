@@ -1,0 +1,7 @@
+C:\Users\wwstudent\Desktop\Rafael Gomez\ISTA421\LeetCode1313\LeetCode1313\bin\Debug\LeetCode1313.exe.config
+C:\Users\wwstudent\Desktop\Rafael Gomez\ISTA421\LeetCode1313\LeetCode1313\bin\Debug\LeetCode1313.exe
+C:\Users\wwstudent\Desktop\Rafael Gomez\ISTA421\LeetCode1313\LeetCode1313\bin\Debug\LeetCode1313.pdb
+C:\Users\wwstudent\Desktop\Rafael Gomez\ISTA421\LeetCode1313\LeetCode1313\obj\Debug\LeetCode1313.csprojAssemblyReference.cache
+C:\Users\wwstudent\Desktop\Rafael Gomez\ISTA421\LeetCode1313\LeetCode1313\obj\Debug\LeetCode1313.csproj.CoreCompileInputs.cache
+C:\Users\wwstudent\Desktop\Rafael Gomez\ISTA421\LeetCode1313\LeetCode1313\obj\Debug\LeetCode1313.exe
+C:\Users\wwstudent\Desktop\Rafael Gomez\ISTA421\LeetCode1313\LeetCode1313\obj\Debug\LeetCode1313.pdb
